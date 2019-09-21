@@ -10,3 +10,5 @@ createlang plpgsql IBSng
 logout
 EOF
 /./usr/local/IBSng/scripts/setup.py
+service postgresql restart
+service IBSng restart
