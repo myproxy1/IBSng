@@ -9,3 +9,4 @@ createuser ibs -s
 createlang plpgsql IBSng
 logout
 EOF
+/./usr/local/IBSng/scripts/setup.py
